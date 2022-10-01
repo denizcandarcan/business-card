@@ -1,6 +1,6 @@
 # Business Card
 
-Business card design to show people a short summary about yourself maded with React JS.
+Business card design to show people a short summary about yourself with using React JS.
 
 ## Demo
 [Link](https://denizcandarcan-businesscard.netlify.app/)
